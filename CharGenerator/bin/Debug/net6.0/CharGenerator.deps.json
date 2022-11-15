@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CharGenerator/1.0.0": {
+        "dependencies": {
+          "FakerDemonstration": "1.0.0"
+        },
+        "runtime": {
+          "CharGenerator.dll": {}
+        }
+      },
+      "FakerDemonstration/1.0.0": {
+        "runtime": {
+          "FakerDemonstration.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CharGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FakerDemonstration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
